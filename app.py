@@ -12,8 +12,6 @@ Original file is located at
 # Versión FINAL estable (mapa robusto)
 # ============================================================
 
-!pip install -q gradio plotly pandas numpy requests statsmodels scikit-learn shap \
-                libpysal esda matplotlib seaborn scipy
 
 import gradio as gr
 import pandas as pd
